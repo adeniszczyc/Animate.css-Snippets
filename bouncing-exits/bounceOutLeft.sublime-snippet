@@ -47,7 +47,7 @@
   animation-name: bounceOutLeft;
 }
 
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-bounceOutLeft</tabTrigger>
 <description>bounceOutLeft - Bouncing Exits</description>

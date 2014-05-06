@@ -43,7 +43,7 @@
   -webkit-animation-name: zoomInRight;
   animation-name: zoomInRight;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-zoomInRight</tabTrigger>
 <description>zoomInRight - Zooming Entrances</description>

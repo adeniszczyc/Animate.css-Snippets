@@ -94,7 +94,7 @@
   -webkit-animation-name: flip;
   animation-name: flip;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-flip</tabTrigger>
 <description>flip - Flippers</description>

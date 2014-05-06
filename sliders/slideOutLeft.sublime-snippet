@@ -33,7 +33,7 @@
   -webkit-animation-name: slideOutLeft;
   animation-name: slideOutLeft;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-slideOutLeft</tabTrigger>
 <description>slideOutLeft - Sliders</description>

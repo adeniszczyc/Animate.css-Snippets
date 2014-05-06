@@ -35,7 +35,7 @@
   -webkit-animation-name: fadeOutDownBig;
   animation-name: fadeOutDownBig;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-fadeOutDownBig</tabTrigger>
 <description>fadeOutDownBig - Fading Exits</description>

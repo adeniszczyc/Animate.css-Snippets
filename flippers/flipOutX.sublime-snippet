@@ -38,7 +38,7 @@
   -ms-backface-visibility: visible !important;
   backface-visibility: visible !important;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-flipOutX</tabTrigger>
 <description>flipOutX - Flippers</description>

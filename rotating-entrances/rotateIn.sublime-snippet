@@ -45,7 +45,7 @@
   -webkit-animation-name: rotateIn;
   animation-name: rotateIn;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-rotateIn</tabTrigger>
 <description>rotateIn - Rotating Entrances</description>

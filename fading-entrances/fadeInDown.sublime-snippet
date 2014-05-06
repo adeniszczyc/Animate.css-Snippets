@@ -35,7 +35,7 @@
   -webkit-animation-name: fadeInDown;
   animation-name: fadeInDown;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-fadeInDown</tabTrigger>
 <description>fadeInDown - Fading Entrances</description>

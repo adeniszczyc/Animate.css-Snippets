@@ -57,7 +57,7 @@
   -webkit-animation-name: bounceInRight;
   animation-name: bounceInRight;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-bounceInRight</tabTrigger>
 <description>bounceInRight - Bouncing Entrances</description>

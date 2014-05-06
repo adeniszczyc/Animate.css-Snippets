@@ -57,7 +57,7 @@
   -webkit-animation-name: bounceOut;
   animation-name: bounceOut;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-bounceOut</tabTrigger>
 <description>bounceOut - Bouncing Exits</description>

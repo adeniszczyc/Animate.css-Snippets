@@ -1,6 +1,3 @@
-<snippet>
-  
-<content><![CDATA[
 @-webkit-keyframes slideInDown {
   0% {
     opacity: 0;
@@ -33,9 +30,3 @@
   -webkit-animation-name: slideInDown;
   animation-name: slideInDown;
 }
-]]></content>
-
-<tabTrigger>animatecss-slideInDown</tabTrigger>
-<description>slideInDown - Sliders</description>
-
-</snippet>

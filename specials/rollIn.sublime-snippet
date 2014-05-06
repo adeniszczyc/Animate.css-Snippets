@@ -35,7 +35,7 @@
   -webkit-animation-name: rollIn;
   animation-name: rollIn;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-rollIn</tabTrigger>
 <description>rollIn - Specials</description>

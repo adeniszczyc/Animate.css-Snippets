@@ -35,7 +35,7 @@
   -webkit-animation-name: fadeOutLeft;
   animation-name: fadeOutLeft;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-fadeOutLeft</tabTrigger>
 <description>fadeOutLeft - Fading Exits</description>

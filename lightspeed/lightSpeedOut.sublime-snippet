@@ -37,7 +37,7 @@
   -webkit-animation-timing-function: ease-in;
   animation-timing-function: ease-in;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-lightSpeedOut</tabTrigger>
 <description>lightSpeedOut - LightSpeed</description>

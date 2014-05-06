@@ -86,7 +86,7 @@
   -webkit-animation-name: wobble;
   animation-name: wobble;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-wobble</tabTrigger>
 <description>wobble - Attention Seekers</description>

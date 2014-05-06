@@ -43,7 +43,7 @@
   -webkit-animation-name: zoomOut;
   animation-name: zoomOut;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-zoomOut</tabTrigger>
 <description>zoomOut - Zooming Exits</description>

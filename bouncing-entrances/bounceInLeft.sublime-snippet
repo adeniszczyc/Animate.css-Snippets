@@ -57,7 +57,7 @@
   -webkit-animation-name: bounceInLeft;
   animation-name: bounceInLeft;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-bounceInLeft</tabTrigger>
 <description>bounceInLeft - Bouncing Entrances</description>

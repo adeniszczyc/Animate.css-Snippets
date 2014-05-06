@@ -64,7 +64,7 @@
   -webkit-animation-name: tada;
   animation-name: tada;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-tada</tabTrigger>
 <description>tada - Attention Seekers</description>

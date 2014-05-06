@@ -33,7 +33,7 @@
   -webkit-animation-name: slideOutUp;
   animation-name: slideOutUp;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-slideOutUp</tabTrigger>
 <description>slideOutUp - Sliders</description>

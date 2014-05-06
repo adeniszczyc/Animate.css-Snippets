@@ -33,7 +33,7 @@
   -webkit-animation-name: slideInRight;
   animation-name: slideInRight;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-slideInRight</tabTrigger>
 <description>slideInRight - Sliders</description>

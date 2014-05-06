@@ -60,7 +60,7 @@
   -webkit-animation-name: flipInY;
   animation-name: flipInY;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-flipInY</tabTrigger>
 <description>flipInY - Flippers</description>

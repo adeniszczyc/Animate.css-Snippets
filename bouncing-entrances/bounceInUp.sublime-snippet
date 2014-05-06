@@ -57,7 +57,7 @@
   -webkit-animation-name: bounceInUp;
   animation-name: bounceInUp;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-bounceInUp</tabTrigger>
 <description>bounceInUp - Bouncing Entrances</description>

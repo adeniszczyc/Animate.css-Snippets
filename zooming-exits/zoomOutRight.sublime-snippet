@@ -44,7 +44,7 @@
   -webkit-animation-name: zoomOutRight;
   animation-name: zoomOutRight;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-zoomOutRight</tabTrigger>
 <description>zoomOutRight - Zooming Exits</description>

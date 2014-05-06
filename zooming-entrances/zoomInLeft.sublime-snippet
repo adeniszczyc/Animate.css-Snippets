@@ -43,7 +43,7 @@
   -webkit-animation-name: zoomInLeft;
   animation-name: zoomInLeft;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-zoomInLeft</tabTrigger>
 <description>zoomInLeft - Zooming Entrances</description>

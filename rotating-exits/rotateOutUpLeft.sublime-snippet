@@ -45,7 +45,7 @@
   -webkit-animation-name: rotateOutUpLeft;
   animation-name: rotateOutUpLeft;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-rotateOutUpLeft</tabTrigger>
 <description>rotateOutUpLeft - Rotating Exits</description>

@@ -46,7 +46,7 @@
   -webkit-animation-name: bounceOutRight;
   animation-name: bounceOutRight;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-bounceOutRight</tabTrigger>
 <description>bounceOutRight - Bouncing Exits</description>

@@ -45,7 +45,7 @@
   -webkit-animation-name: rotateInUpLeft;
   animation-name: rotateInUpLeft;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-rotateInUpLeft</tabTrigger>
 <description>rotateInUpLeft - Rotating Entrances</description>

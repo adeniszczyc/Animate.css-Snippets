@@ -35,7 +35,7 @@
   -webkit-animation-name: fadeInDownBig;
   animation-name: fadeInDownBig;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-fadeInDownBig</tabTrigger>
 <description>fadeInDownBig - Fading Entrances</description>

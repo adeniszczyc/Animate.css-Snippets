@@ -33,7 +33,7 @@
   -webkit-animation-name: slideInLeft;
   animation-name: slideInLeft;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-slideInLeft</tabTrigger>
 <description>slideInLeft - Sliders</description>

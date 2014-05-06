@@ -35,7 +35,7 @@
   -webkit-animation-name: fadeInLeftBig;
   animation-name: fadeInLeftBig;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-fadeInLeftBig</tabTrigger>
 <description>fadeInLeftBig - Fading Entrances</description>

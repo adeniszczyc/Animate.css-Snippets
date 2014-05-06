@@ -43,7 +43,7 @@
   -webkit-animation-name: zoomInDown;
   animation-name: zoomInDown;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-zoomInDown</tabTrigger>
 <description>zoomInDown - Zooming Entrances</description>

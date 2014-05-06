@@ -60,7 +60,7 @@
   -webkit-animation-name: flipInX;
   animation-name: flipInX;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-flipInX</tabTrigger>
 <description>flipInX - Flippers</description>

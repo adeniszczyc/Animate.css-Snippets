@@ -35,7 +35,7 @@
   -webkit-animation-name: rollOut;
   animation-name: rollOut;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-rollOut</tabTrigger>
 <description>rollOut - Specials</description>

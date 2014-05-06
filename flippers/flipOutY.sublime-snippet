@@ -38,7 +38,7 @@
   -webkit-animation-name: flipOutY;
   animation-name: flipOutY;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-flipOutY</tabTrigger>
 <description>flipOutY - Flippers</description>

@@ -25,7 +25,7 @@
   -webkit-animation-name: fadeIn;
   animation-name: fadeIn;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-fadeIn</tabTrigger>
 <description>fadeIn - Fading Entrances</description>

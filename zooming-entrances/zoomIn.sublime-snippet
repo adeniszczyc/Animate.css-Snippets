@@ -30,7 +30,7 @@
   -webkit-animation-name: zoomIn;
   animation-name: zoomIn;
 }
-]]><content>
+]]></content>
 
 <tabTrigger>animatecss-zoomIn</tabTrigger>
 <description>zoomIn - Zooming Entrances</description>
