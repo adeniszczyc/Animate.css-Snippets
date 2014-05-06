@@ -1,0 +1,33 @@
+<snippet>
+  
+<content><![CDATA[
+@-webkit-keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+.fadeOut {
+  -webkit-animation-name: fadeOut;
+  animation-name: fadeOut;
+}
+]]><content>
+
+<tabTrigger>animatecss-fadeOut</tabTrigger>
+<description>fadeOut - Fading Exits</description>
+
+</snippet>
