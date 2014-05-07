@@ -8,7 +8,7 @@ In Sublime Text, enter `animatecss-` followed by an animation name as listed on 
 animatecss-bounceOutDown
 ```
 Will generate: 
-```
+```css
 @-webkit-keyframes bounceOutDown {
   0% {
     -webkit-transform: translateY(0);
