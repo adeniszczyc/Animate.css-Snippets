@@ -43,5 +43,5 @@ The easiest method is to use [Package Control](https://sublime.wbond.net/ "Packa
 Animate.css Snippets for Sublime Text is licensed under MIT. (http://opensource.org/licenses/MIT)
 
 ## Credits
-- [Andrew Deniszczyc](link:http://andrewdeniszczyc.com/ "Andrew Deniszczyc") - Animate.css Snippets for Sublime Text
-- [Daniel Eden](link:http://daneden.me/ "Daniel Eden") - [Animate.css](https://daneden.github.io/animate.css/ "Animate.css")
+- [Andrew Deniszczyc](http://andrewdeniszczyc.com/ "Andrew Deniszczyc") - Animate.css Snippets for Sublime Text
+- [Daniel Eden](http://daneden.me/ "Daniel Eden") - [Animate.css](https://daneden.github.io/animate.css/ "Animate.css")
