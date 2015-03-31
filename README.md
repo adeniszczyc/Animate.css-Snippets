@@ -37,7 +37,7 @@ Will generate:
 ```
 
 ## Installation
-The easiest method is to use [Package Control](https://sublime.wbond.net/ "Package Control").  In Sublime Text, press `Command+Shift+P` on OS X or  `Control+Shift+P` on Windows/Linux, then go to "Package Control:Install Package". Search for "Animate.css", and hit enter to install.
+The easiest method is to use [Package Control](https://sublime.wbond.net/ "Package Control").  In Sublime Text, press <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> on OS X or  <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> on Windows/Linux, then go to "Package Control:Install Package". Search for "Animate.css", and hit <kbd>Enter</kbd> to install.
 
 ## License
 Animate.css Snippets for Sublime Text is licensed under MIT. (http://opensource.org/licenses/MIT)
